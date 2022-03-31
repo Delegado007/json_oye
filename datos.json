@@ -65,6 +65,13 @@
 			"ruta": "./canciones/once.mp3",
 			"reproducciones": 100,
 			"icono": 1
+		},
+	{
+			"nombre": "No se lo que hago",
+			"ruta": "./canciones/once.mp3",
+			"reproducciones": 100,
+			"icono": 1
 		}
+		
 	]
 }
